@@ -32,8 +32,8 @@ Certifique-se de ter instalado:
 
 1. Clone o repositório:
    ```bash
-   git clone XXX
-   cd tivit
+   git clone https://github.com/washingtonjnr/simple-auth-with-permissions
+   cd simple-auth-with-permissions
    ```
 
 2. Instale as dependências do projeto:
