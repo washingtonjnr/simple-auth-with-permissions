@@ -11,7 +11,7 @@ export function AuthLayout() {
         <img
           src={illustrationImg}
           alt="mulher morena com franja mexendo no celular ao lado de um outro celular de 1 metro e meio de altura, com seu conteúdo sendo um banco"
-          className="w-full object-cover"
+          className="w-full object-cover max-w-[520px]"
         />
       </div>
 
